@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LikeSpace</string>
+    <string name="today_calendar_menu_action_choose_date">date</string>
 </resources>
